@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>flume-cep</name>
-    <url>http://tedwon.com</url>
+    <url>http://software.kaist.ac.kr</url>
     <inceptionYear>2013</inceptionYear>
 
     <properties>
