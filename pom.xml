@@ -55,12 +55,12 @@
     <!-- Developer Information -->
     <developers>
         <developer>
-            <id>tedwon</id>
-            <name>Ted Won</name>
+            <id>lotshin</id>
+            <name>Ho Seung Shin</name>
             <roles>
                 <role>Developer</role>
             </roles>
-            <email>realtimecep@gmail.com</email>
+            <email>lotshin@gmail.com</email>
         </developer>
     </developers>
 </project>
