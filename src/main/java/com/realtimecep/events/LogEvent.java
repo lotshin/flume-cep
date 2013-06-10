@@ -3,7 +3,7 @@ package com.realtimecep.events;
 /**
  * <p/>
  *
- * @author <a href=mailto:realtimecep@gmail.com">Ted Won</a>
+ * @author <a href=mailto:lotshin@gmail.com">Ho Seung Shin</a>
  * @version 0.1.0
  * @since 0.1.0
  */

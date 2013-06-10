@@ -25,7 +25,7 @@ import java.util.Map;
  * <p/>
  * For learning & testing
  *
- * @author <a href="realtimecep@gmail.com">Ted Won</a>
+ * @author <a href="lotshin@gmail.com">Ho Seung Shin</a>
  * @version 1.0
  */
 public class CEPSink extends AbstractSink implements Configurable {

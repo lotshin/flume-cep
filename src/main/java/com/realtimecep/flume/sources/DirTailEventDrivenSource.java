@@ -30,7 +30,7 @@ import java.util.TimerTask;
  * scanPeriod: default 1sec<p/>
  * debugThroughput: default false<p/>
  *
- * @author <a href="realtimecep@gmail.com">Ted Won</a>
+ * @author <a href="lotshin@gmail.com">Ho Seung Shin</a>
  * @version 0.5.0
  */
 public class DirTailEventDrivenSource extends AbstractSource implements Configurable, EventDrivenSource {
